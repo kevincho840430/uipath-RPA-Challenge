@@ -1,0 +1,6 @@
+https://github.com/RileyHansen/Pop-Up-Handler
+https://forum.uipath.com/t/how-to-use-try-catch/181897
+https://forum.uipath.com/t/handling-random-popup/4658
+https://forum.uipath.com/t/if-condition-on-popup/131739
+
+
